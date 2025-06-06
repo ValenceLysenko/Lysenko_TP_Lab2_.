@@ -8,5 +8,6 @@ num1 = 15
 num2 = 7
 print(f"{num1} + {num2} = {add(num1, num2)}")
 print(f"{num1} - {num2} = {subtract(num1, num2)}")
-# Тут немає виклику multiply!
-print("Виправлено текст повідомлення у main.") # Змінений той самийрядок!
+print(f"{num1} * {num2} = {multiply(num1, num2)}") # З
+feature/multiply
+print("Виправлено текст повідомлення у main, інтегрованомноження.") # Комбінований результат
